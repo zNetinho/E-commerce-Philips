@@ -1,0 +1,17 @@
+#barra {
+    display: flex;
+}
+
+.menu {}
+
+#fundo {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.itens {
+    /* padding: 10%; */
+    display: flex;
+    justify-content: center;
+}
